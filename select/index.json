@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "開拓者",
+  "base_artist": "影ぼう",
+  "createdAt": "2026-02-18T18:52:32.658928Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "開拓者",
+      "artist": "影ぼう",
+      "has_synced": false,
+      "path": "select/pl_01_開拓者_影ぼう.txt"
+    }
+  ]
+}
